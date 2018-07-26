@@ -24,8 +24,6 @@ class App extends React.Component {
   }
 
   render() {
-    console.log(this.props.drum);
-    
     return (
       <div id="drum-machine">
         <Header />
